@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: left;
+}
+
+html {
+  background: #0c1015;
+  margin: 30px;
+}
+
+.App {
+  padding: 0;
+  font-family: "Nunito";
+  text-align: center;
+  width: 360px;
+  max-width: 100%;
+  margin: auto;
+  background: #0c1015;
+}
+
+h1 {
+  padding-bottom: 30px;
+  color: white;
+  font-family: "Nunito";
+  text-align: left;
+  margin: auto;
+}
